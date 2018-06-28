@@ -1,5 +1,7 @@
 ## WeatherPy
 ![png](output/output_18_0.png)
+
+
 Here, we are given the task to datamine, prepare and analyze and at the same time create visualization using matplotlib of weather data of 500+ cities across the world of varying distance from the equator. 
 
  To accomplish this, we need:
